@@ -37,6 +37,7 @@
   border: 3px solid rgba(120, 120, 120, 0.37);
   padding: 0.5rem 1rem;
   justify-content: space-between;
+  flex-wrap: nowrap;
   width: 100%;
   z-index: 2;
 }
